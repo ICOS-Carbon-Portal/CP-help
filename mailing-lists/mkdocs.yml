@@ -1,0 +1,20 @@
+site_url: 'https://icos-carbon-portal.github.io/mailing-lists/'
+
+site_name: ICOS Mailing Lists Documentation
+nav:
+    - Introduction: index.md
+    - Subscribe to a mailing list without an account: subscribe_without_account.md
+    - Create an account: create_account.md
+    - Manage your subscriptons and settings: manage_subscriptions.md
+    - List moderation (requires Moderator role): list_moderation.md
+    - List ownership (requires Owner role): list_ownership.md
+    - Request a new mailing list: request_new_list.md
+
+theme:
+    name: readthedocs
+
+extra_css:
+    - style.css
+
+markdown_extensions:
+    - admonition
