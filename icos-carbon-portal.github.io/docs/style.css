@@ -1,0 +1,8 @@
+/* center images */
+img {
+    border: solid black thin;
+}
+
+p:has(img) {
+    text-align: center;
+}
