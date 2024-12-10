@@ -1,0 +1,14 @@
+site_url: 'https://icos-carbon-portal.github.io/'
+
+site_name: ICOS Documentation Portal
+nav:
+    - index.md
+
+theme:
+    name: readthedocs
+
+extra_css:
+    - style.css
+
+markdown_extensions:
+    - admonition
