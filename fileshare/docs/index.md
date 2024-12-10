@@ -3,7 +3,7 @@
 ## The ICOS Fileshare
 The [ICOS Fileshare](https://fileshare.icos-cp.eu) is a service based on the
 Nextcloud server software, and is a safe and convenient way to store your
-ICOS-related documents and data! You can store private data, as well as share
+ICOS-related documents and data. You can store private data, as well as share
 data with other users and the world through a number of data sharing options.
 The built-in document editor allows you to edit documents, including Word, Excel
 and PowerPoint files, simultaneously with other users. All data is backed up
