@@ -11,3 +11,9 @@ Within this repository, the documentation for the following services can be
 found:
 1. ICOS Fileshare
 2. ICOS Mailing Lists
+
+## Developer Notes
+
+Sites are built using `mkdocs build`. The contents of the `site` folder can then
+be deployed to the correct directory within the GH pages repository,
+[icos-carbon-portal/icos-carbon-portal.github.io](https://github.com/ICOS-Carbon-Portal/icos-carbon-portal.github.io).
