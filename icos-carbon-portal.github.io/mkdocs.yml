@@ -1,6 +1,6 @@
 site_url: 'https://icos-carbon-portal.github.io/'
 
-site_name: ICOS Documentation Portal
+site_name: ICOS Carbon Portal Documentation Hub
 nav:
     - index.md
 
