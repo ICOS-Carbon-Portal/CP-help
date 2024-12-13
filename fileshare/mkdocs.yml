@@ -3,11 +3,12 @@ site_url: 'https://icos-carbon-portal.github.io/fileshare/'
 site_name: ICOS Fileshare Documentation
 nav:
     - About: index.md
-    - Creating your account: creating_account.md
-    - Becoming familiar with ICOS Fileshare: becoming_familiar.md
-    - Managing your data: managing_data.md
-    - Sharing your data: sharing_data.md
-    - Advanced functions: advanced_functions.md
+    - creating_account.md
+    - enable_2fa.md
+    - becoming_familiar.md
+    - managing_data.md
+    - sharing_data.md
+    - advanced_functions.md
 
 theme:
     name: readthedocs
@@ -17,3 +18,4 @@ extra_css:
 
 markdown_extensions:
     - admonition
+    - sane_lists

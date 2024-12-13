@@ -1,4 +1,4 @@
-# Becoming familiar with Nextcloud
+# Becoming familiar with ICOS Fileshare
 
 In ICOS Fileshare there are different folder icons. Your personal folders are
 solid blue, while folders that are part of a Group structure have a group icon
