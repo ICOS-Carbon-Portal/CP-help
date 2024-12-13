@@ -46,6 +46,6 @@ introduction to the use of the Fileshare system.
 ![Screenshot of the default files](img/default_files.png)
 
 !!! note 
-    We highly recommend ALL USERS [enable two-factor
+    We highly recommend **ALL USERS** [enable two-factor
     authentication](enable_2fa.md) once their account is enabled in order to
     safeguard their account and ensure they have access to their data.
