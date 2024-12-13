@@ -79,7 +79,7 @@ discard all non-member posts in order to minimize the risk of spam to the list.
 (KB). Large files should not shared on the mail server, so do not set a limit
 higher than 5000 KB. Instead, large files should be uploaded to a cloud server
 and linked to. (For example, you could use the [ICOS
-Fileshare](https://static.icos-cp.eu/share/docs/sphinx/fileshare/html/) to host
+Fileshare](https://icos-carbon-portal.github.io/fileshare/) to host
 files.)
 
 ## Mass subscribe

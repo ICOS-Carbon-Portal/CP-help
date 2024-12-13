@@ -49,9 +49,14 @@ The Nextcloud user interface contains the following fields and functions:
    including the following:
 
     - **Personal info:** Edit your profile.
-    - **Security:** Change your password or manage your sessions.
+    - **Security:** Change your password or manage your sessions. This is where you can manage your [two-factor authentication settings](enable_2fa.md).
     - **Notifications:** Enable email or app notifications when different
       activities happen.
     - **Mobile & desktop:** Links to download mobile or desktop apps.
     - **Appearance and accessibility:** Change between light and dark mode,
       enable high contrast mode, and configure navigation bar settings.
+
+!!! note 
+    We highly recommend **ALL USERS** [enable two-factor
+    authentication](enable_2fa.md) once their account is enabled in order to
+    safeguard their account and ensure they have access to their data.
