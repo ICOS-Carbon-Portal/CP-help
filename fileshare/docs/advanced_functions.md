@@ -34,3 +34,4 @@ Nextcloud servers, Owncloud servers or even sftp and other WebDAV services from
 the [External storage
 settings](https://fileshare.icos-cp.eu/settings/user/externalstorages).
 
+{!../contact_footer.md!}

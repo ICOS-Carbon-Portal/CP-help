@@ -170,3 +170,5 @@ view.
 
 You can use the search box in the upper right to search through the mailing
 list's archive as well. 
+
+{!../contact_footer.md!}

@@ -87,3 +87,5 @@ the folder*. You will also be able to set the **Create** permission under
 be able to create (or upload) new files.
 
 ![Share folder options](img/sharing_folder.png)
+
+{!../contact_footer.md!}

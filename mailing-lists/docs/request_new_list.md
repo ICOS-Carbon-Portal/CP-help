@@ -42,3 +42,5 @@ confirming your request was submitted.
 
 The list will be created within a few working days, and you, the owner(s), and
 the moderator(s) will be notified when it is ready.
+
+{!../contact_footer.md!}

@@ -15,3 +15,5 @@ click **Reply** on the email, and then send it back to the server.
 If the list membership is unmoderated, you will receive an immediate
 notification email confirming your subscription; otherwise, you will have to
 wait for the list moderator to approve your membership.
+
+{!../contact_footer.md!}

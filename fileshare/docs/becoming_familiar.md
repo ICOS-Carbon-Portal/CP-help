@@ -60,3 +60,5 @@ The Nextcloud user interface contains the following fields and functions:
     We highly recommend **ALL USERS** [enable two-factor
     authentication](enable_2fa.md) once their account is enabled in order to
     safeguard their account and ensure they have access to their data.
+
+{!../contact_footer.md!}

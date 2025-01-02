@@ -43,3 +43,5 @@ display the lists for which you are an **Owner**, **Moderator**, **Member**, or
 **Non-member**, in addition to being able to display all lists. 
 
 ![Screenshot of role selection](img/role_selection.png)
+
+{!../contact_footer.md!}

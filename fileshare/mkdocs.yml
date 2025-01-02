@@ -1,4 +1,6 @@
+INHERIT: ../mkdocs_base.yml
 site_url: 'https://icos-carbon-portal.github.io/fileshare/'
+edit_uri: 'blob/master/fileshare/docs/'
 
 site_name: ICOS Fileshare Documentation
 nav:
@@ -8,14 +10,8 @@ nav:
     - enable_2fa.md
     - managing_data.md
     - sharing_data.md
+    - calendar.md
     - advanced_functions.md
-
-theme:
-    name: readthedocs
 
 extra_css:
     - style.css
-
-markdown_extensions:
-    - admonition
-    - sane_lists

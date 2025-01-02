@@ -96,3 +96,5 @@ After entering the email addresses, click the **Subscribe users** button. The
 mailing list server will try to add each user to the list, and will then notify
 you of whether each addition was successful. If there is an error, you can
 correct them and try to add them again.
+
+{!../contact_footer.md!}

@@ -74,3 +74,5 @@ save all ten.
 
 Once you've generated them, clicking **Regenerate backup codes** will invalidate
 the existing codes and provide ten new codes.
+
+{!../contact_footer.md!}

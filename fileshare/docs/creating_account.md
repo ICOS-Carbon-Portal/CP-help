@@ -49,3 +49,5 @@ introduction to the use of the Fileshare system.
     We highly recommend **ALL USERS** [enable two-factor
     authentication](enable_2fa.md) once their account is enabled in order to
     safeguard their account and ensure they have access to their data.
+    
+{!../contact_footer.md!}

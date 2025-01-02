@@ -48,3 +48,5 @@ left of the file/folder icons. Then, the area below the navigation bar will
 change to display the actions you can do, including **Move or copy**. Selecting
 the **...** icon will show you more actions, including **Download** and
 **Delete**.
+
+{!../contact_footer.md!}

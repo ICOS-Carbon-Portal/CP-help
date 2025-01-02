@@ -75,3 +75,5 @@ action that should automatically be taken anytime a message from this sender is
 received. You can always *Hold for moderation*, *Reject (with notification)*,
 *Discard (no notification)*, *Accept immediately (bypass other rules)*, or use
 the *Default processing* choice.
+
+{!../contact_footer.md!}

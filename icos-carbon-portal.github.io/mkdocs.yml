@@ -1,15 +1,10 @@
+INHERIT: ../mkdocs_base.yml
 site_url: 'https://icos-carbon-portal.github.io/'
+edit_uri: 'blob/master/icos-carbon-portal.github.io/docs/'
 
 site_name: ICOS Carbon Portal Documentation Hub
 nav:
     - index.md
 
-theme:
-    name: readthedocs
-
 extra_css:
     - style.css
-
-markdown_extensions:
-    - admonition
-    - sane_lists

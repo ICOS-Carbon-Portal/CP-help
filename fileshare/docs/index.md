@@ -19,3 +19,5 @@ to the ICOS data repository.
     effort basis. ICOS ERIC does not take any responsibility for lost files,
     shared links that potentially expose data, or any damage that can occur by
     use of this service.
+
+{!../contact_footer.md!}

@@ -55,3 +55,5 @@ only provides technical support for Python.
 
 [View the ICOS Carbon Portal Jupyter Solutions documentation for more
 information.](https://icos-carbon-portal.github.io/jupyter/)
+
+{!../contact_footer.md!}
