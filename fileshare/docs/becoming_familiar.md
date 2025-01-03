@@ -8,7 +8,7 @@ on the folder and shared folders have a sharing icon on them.
     When sharing folders and files from within Group structures, only share
     folders or files therein publicly when it is safe, necessary, and useful.
 
-![Labeled screenshot of the Nextcloud user interface](img/basics.png)
+![Labelled screenshot of the Nextcloud user interface](img/basics.png)
 
 By default, the Nextcloud Web interface opens to a Dashboard page. From here,
 the icons along the top of the screen can be used to change between apps within

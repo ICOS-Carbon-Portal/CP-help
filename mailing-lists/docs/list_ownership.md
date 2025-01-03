@@ -74,7 +74,7 @@ a user, depending on whether they are a member or a non-member. You can choose
 to *Hold for moderation*, *Reject (with notification)*, *Discard (no
 notification)*, *Accept immediately (bypass other rules)*, or use the *Default
 processing* choice. For closed mail lists, you may prefer to automatically
-discard all non-member posts in order to minimize the risk of spam to the list.
+discard all non-member posts in order to minimise the risk of spam to the list.
 - **Maximum message size**: You can define a maximum message size, in kilobytes
 (KB). Large files should not shared on the mail server, so do not set a limit
 higher than 5000 KB. Instead, large files should be uploaded to a cloud server

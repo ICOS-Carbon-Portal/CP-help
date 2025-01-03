@@ -26,16 +26,16 @@ To navigate back to the current month/year, click on the **Today** button.
 
 To change between views, click on the **change view** icon, located to the right of the **Today** button. Note that the icon changes to display which view you currently have selected.
 
-In the change view menu, you can select between Day, Week, Month, Year, and List. Selecting a different view will update the main section of the screen accordingly, and change the Visible time period accordingly. You can then navigate to different Days, Weeks, Months, or Years using the arrows or by clicking on the **Visible time period**.
+In the change view menu, you can select between Day, Week, Month, Year, and List. Selecting a different view will update the main section of the screen and change the Visible time period accordingly. You can then navigate to different Days, Weeks, Months, or Years using the arrows or by clicking on the **Visible time period**.
 
 ### Managing individual calendar settings
 
-In the list of calendars, you can click on the colored circle icon to toggle the visibility of the calendar. A solid circle indicates the calendar is currently visible, while an empty circle indicates it is currently hidden.
+In the list of calendars, you can click on the coloured circle icon to toggle the visibility of the calendar. A solid circle indicates the calendar is currently visible, while an empty circle indicates it is currently hidden.
 
 To reorder the list of calendars, click on a calendar's name and drag the calendar to its desired position in the list.
 
 !!! note
-    The first calendar on the list you have editing access to will be the **default calendar** selected when you create new events. So if you do not use the Personal calendar but make events on a shared calendar, you may want to move the shared calendar to the top position!
+    The first calendar on the list you have editing access to will be the **default calendar** selected when you create new events. So, if you do not use the Personal calendar but instead make events on a shared calendar, you may want to move the shared calendar to the top position!
 
 To edit a calendar, hover over the calendar name and then click on the icon to the right of the calendar. For calendars you own, this will be a pencil icon and the edit menu will open immediately; for calendars shared with you, this will be a link icon, replaced with a ... icon after you hover over it, and then you can click on the **Edit calendar** option.
 
@@ -45,7 +45,7 @@ Depending on the kind of calendar, you have different options. Remember to click
 
 For any calendar:
 
-- You can change the displayed color by clicking on the solid circle next to the calendar name in the Edit calendar pop-up.
+- You can change the displayed colour by clicking on the solid circle next to the calendar name in the Edit calendar pop-up.
 - You can change the displayed name by changing the calendar name.
 - You can export the calendar, downloading a .ics file that can be imported into other services. Note that this is a **snapshot** or copy of the current calendar; it will not sync with future updates. 
 
@@ -83,7 +83,7 @@ For more advanced features, click on the **More details** button. This will open
     - Set the status of the event: Confirmed, Tentative, or Canceled
     - Set the visibility of event when shared: Show full details, Show as busy, or Hide event
     - Set how the event impacts your status: Busy or Free
-    - Categorize your event
+    - Categorise your event
     - Give your event a custom colour, which will be different from the calendar default
     - Add a reminder for the event
     - Change recurrence: Does not repeat or repeating event. If repeating, you can set how often it repeats and when to end the recurring event.
@@ -99,8 +99,8 @@ For more advanced features, click on the **More details** button. This will open
 
 There are two main methods of syncing your Fileshare calendar with other systems:
 
-1. [Full synchronization](#full-synchronization-with-caldav) of any calendar you have access to, which works only with calendar applications that allow for CalDAV synchronization.
-2. [Read-only synchronization](#read-only-synchronization-with-subscription-link) of calendars you own, which works with nearly any calendar system.
+1. [Full synchronisation](#full-synchronisation-with-caldav) of any calendar you have access to, which works only with calendar applications that allow for CalDAV synchronisation.
+2. [Read-only synchronisation](#read-only-synchronisation-with-subscription-link) of calendars you own, which works with nearly any calendar system.
 
 !!! note
     If you would like help with synchronizing your ICOS Fileshare calendar with another calendar application, please email us at <help@icos-ri.eu>.
@@ -109,15 +109,15 @@ Both methods will be presented in the general case, with platform independent in
 
 | Environment   | Application                                           | Method                    |
 |---------------|-------------------------------------------------------|---------------------------|
-| Windows 10/11 | [Outlook (classic)\*](#windows-1011-outlook-classic)  | Full synchronization      |
-| macOS/iOS     | [Apple Calendar App](#macosios-apple-calendar-app)    | Full synchronization      | 
-| Windows 10/11 | [Outlook (new)](#windows-1011-outlook-new)            | Read-only synchronization |
-| macOS         | [Outlook](#macos-outlook)                             | Read-only synchronization |
-| --            | [Google Calendar](#google-calendar)                   | Read-only synchronization |
+| Windows 10/11 | [Outlook (classic)\*](#windows-1011-outlook-classic)  | Full synchronisation      |
+| macOS/iOS     | [Apple Calendar App](#macosios-apple-calendar-app)    | Full synchronisation      | 
+| Windows 10/11 | [Outlook (new)](#windows-1011-outlook-new)            | Read-only synchronisation |
+| macOS         | [Outlook](#macos-outlook)                             | Read-only synchronisation |
+| --            | [Google Calendar](#google-calendar)                   | Read-only synchronisation |
 
 *\*Outlook (classic) on Windows requires a third-party Outlook add-on named* ***CalDav Synchronizer***.
 
-### Full synchronization with CalDAV
+### Full synchronisation with CalDAV
 
 You will need to provide the following information to your calendar application:
 
@@ -138,10 +138,10 @@ After authenticating with your password, the app password will be displayed. Thi
 
 #### Windows 10/11, Outlook (classic)
 
-You will need to install an Outlook add-on, **CalDav Synchronizer**, in order to have full synchronization.
+You will need to install an Outlook add-on, **CalDav Synchronizer**, in order to have full synchronisation.
 
 !!! warning
-    The CalDav Synchronizer add-on is an open-source software package. There is no guarantee that it will continue to receive updates in the future, and upgrades to Microsoft Outlook could break the synchronization.
+    The CalDav Synchronizer add-on is an open-source software package. There is no guarantee that it will continue to receive updates in the future, and upgrades to Microsoft Outlook could break the synchronisation.
 
     Additionally, be aware that while the calendars will appear on all of your devices, they will not sync to ICOS Fileshare unless the Outlook (classic) application is open on the computer that has CalDav Synchronizer set up. If you use multiple computers, you should install and set up CalDav Synchronizer on each computer. In that case, when you are selecting an Outlook folder in step 5.4, select the already existing folder for that calendar.
 
@@ -149,7 +149,7 @@ You will need to install an Outlook add-on, **CalDav Synchronizer**, in order to
 2. After installation, **restart Outlook (classic)** by closing the application and reopening it.
 3. Click on the **CalDav Synchronizer** ribbon, at the top of the Outlook window.
 4. Click on the **Synchronization Profiles** option to open the profiles window.
-5. For each calendar you would like to synchronize:
+5. For each calendar you would like to synchronise:
     1. Click on the **+** (plus sign) icon in the upper left.
     2. Select **Nextcloud**, then click **OK**.
     3. Replace the text, *<New Profile\>*, next to Name: with the calendar's name.
@@ -178,7 +178,7 @@ These are the settings to use on a Mac:
 | Description | ICOS Fileshare                                            |
 
 !!! note
-    If you have two-factor authentication enabled, use an App Password instead, as described in the [Full synchronization with CalDAV](#full-synchronization-with-caldav) section.
+    If you have two-factor authentication enabled, use an App Password instead, as described in the [Full synchronisation with CalDAV](#full-synchronisation-with-caldav) section.
 
 On macOS:
 
@@ -200,9 +200,9 @@ On iOS (iPhone, iPad, etc.)
 
 After adding the account, your calendars should appear in the Calendar app right away, and should continue to sync with the Fileshare from your device. You may need to add the calendar account to other devices if you use multiple devices.
 
-### Read-only synchronization with subscription link
+### Read-only synchronisation with subscription link
 
-Almost any calendar system will be able to read calendars you own. To add an owned calendar for read-only synchronization:
+Almost any calendar system will be able to read calendars you own. To add an owned calendar for read-only synchronisation:
 
 1. In ICOS Fileshare, go to the **Edit calendar** pop-up, as described in the [Managing individual calendar settings](#managing-individual-calendar-settings) section above. 
 2. Next to Share link area, click on the **+** (plus sign) icon. 
@@ -212,7 +212,7 @@ Almost any calendar system will be able to read calendars you own. To add an own
 
 #### Windows 10/11, Outlook (new)
 
-In the new Outlook app, labelled **Outlook (new)**, you can only add calendars you own with read-only synchronization. Follow steps 1-3 in the [Read-only synchronization with subscription link](#read-only-synchronization-with-subscription-link) section (above).
+In the new Outlook app, labelled **Outlook (new)**, you can only add calendars you own with read-only synchronisation. Follow steps 1-3 in the [Read-only synchronisation with subscription link](#read-only-synchronisation-with-subscription-link) section (above).
 
 Then, in Outlook (new), click on the Calendars tab, then click the **Add calendar** button in the left panel, below the month grid display.
 
@@ -222,9 +222,9 @@ Select **Subscribe from web** on the left of the Add calendar pop-up, then paste
 
 In the macOS Outlook app, you cannot add any web-based calendars.
 
-However, you should be able to add calendars you own with read-only synchronization by using the web client <https://outlook.office.com>. 
+However, you should be able to add calendars you own with read-only synchronisation by using the web client <https://outlook.office.com>. 
 
-Follow steps 1-3 in the [Read-only synchronization with subscription link](#read-only-synchronization-with-subscription-link) section (above).
+Follow steps 1-3 in the [Read-only synchronisation with subscription link](#read-only-synchronisation-with-subscription-link) section (above).
 
 Then, in the Outlook web interface, click on the **Calendars** tab, then click the **Add calendar** button in the left panel, below the month grid display.
 
@@ -232,7 +232,7 @@ Select **Subscribe from web** on the left of the Add calendar pop-up, then paste
 
 #### Google Calendar
 
-Using the Google Calendar service, you can only add calendars you own with read-only synchronization. Follow steps 1-3 in the [Read-only synchronization with subscription link](#read-only-synchronization-with-subscription-link) section (above).
+Using the Google Calendar service, you can only add calendars you own with read-only synchronisation. Follow steps 1-3 in the [Read-only synchronisation with subscription link](#read-only-synchronisation-with-subscription-link) section (above).
 
 From the Google Calendar web app, click on the **+ (plus sign)** icon to the right of "Other calendars" in the left-hand sidebar.
 

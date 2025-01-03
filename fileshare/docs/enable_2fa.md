@@ -44,7 +44,7 @@ using the Microsoft Authenticator app on an iPhone:
 2. If necessary, give the app permission to use your camera.
 3. Scan the QR code.
 4. Your account is now set up. You should see a six digit one-time passcode on
-   your screen, with your account labeled as **ICOS nextcloud**.
+   your screen, with your account labelled as **ICOS nextcloud**.
 
 ![Screenshot of one-time code](img/microsoft_authenticator_otp.jpeg)
 

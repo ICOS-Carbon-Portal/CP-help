@@ -8,7 +8,7 @@ There are two required steps for creating an account:
 2. Register at [the ICOS Fileshare](https://fileshare.icos-cp.eu) by clicking
    the **Register** button at the bottom of the login area. For your login name,
    please choose a name that is the same or clearly related to your actual name,
-   as this allows other users to recognize your name when sharing data with you.
+   as this allows other users to recognise your name when sharing data with you.
    Spaces are allowed, so your first and last name can be used.
 
 ![The register button, located below the Username and Password

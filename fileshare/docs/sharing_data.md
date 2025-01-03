@@ -30,10 +30,10 @@ Nextcloud or Owncloud server. An example of the search box is shown below.
 !!! note
     You can usually ignore the "Share with a Deck Card" option. This is a
     Nextcloud feature used for creating Decks, which function as "bulletin
-    board" style organization schemes within Nextcloud.
+    board" style organisation schemes within Nextcloud.
 
 After clicking on the person or group, you will be able to set permissions for
-the user, such as **View only**, **Allow editing**, or you can customize the
+the user, such as **View only**, **Allow editing**, or you can customise the
 permissions using **Custom permissions**.  
 If you have **View only** access to a file, then you will only be able to share
 it as **View only**. 
