@@ -5,7 +5,7 @@ associated GitHub repository. Documentation is built using the Python package
 MkDocs, using the ReadTheDocs theme.
 
 The ICOS Documentation Hub can be found at
-<https://icos-carbon-portal.github.com/>, which features links to all of our documentation.
+<https://icos-carbon-portal.github.io/>, which features links to all of our documentation.
 
 Within this repository, the documentation for the following services can be
 found:
